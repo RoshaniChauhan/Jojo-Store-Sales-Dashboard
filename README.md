@@ -69,5 +69,5 @@ This project uses two related tables:
 ## 👩‍💻 Author
 **Roshani Chauhan**  
 🔗 [LinkedIn]https://www.linkedin.com/in/roshanichauhan/  
-🔗 [GitHub](https://github.com/RoshaniChauhan)
+🔗 [GitHub]https://github.com/RoshaniChauhan/Jojo-Store-Sales-Dashboard
 
